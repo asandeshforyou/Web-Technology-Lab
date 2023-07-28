@@ -1,0 +1,1 @@
+Write a html program to create two page(i.e. home and about) where home page consists of one paragraph, one heading and one bold text and about page consists of one paragraph, one emphasized and one strong text. Link these two pages by using anchor tag.
