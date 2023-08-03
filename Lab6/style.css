@@ -1,0 +1,19 @@
+.para{
+    font-size: 30px;
+    color: red;
+    background-color: aqua;
+
+}
+#head{
+    font-size: 50px;
+    border: 2px red dashed;
+}
+b{
+    color: blue;
+    border: 3px red dotted;
+}
+img{
+    height: 400px;
+    width: 500px;
+}
+
