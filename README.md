@@ -1,10 +1,12 @@
-#Index 
--[Lab 1](/Lab1/)
--[Lab 2](/Lab2/)
--[Lab 3](/Lab3/)
--[Lab 4](/Lab4/)
--[Lab 5](/Lab5/)
--[Lab 6](/Lab6/)
+# Web Technology Practical
+Practical Implementations of various concepts studied under the subject Web Technology.
+## Index
+[Lab 1: Basic HTML Elememts](/Lab1/)<br>
+[Lab 2: HTML Lists](/Lab2/)<br>
+[Lab 3: HTML Frames](/Lab3/)<br>
+[Lab 4: HTML Forms](/Lab4/)<br>
+[Lab 5: Introduction to CSS](/Lab5/)<br>
+[Lab 6: Selectors in CSS](/Lab6/)<br>
 
 
 
