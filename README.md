@@ -7,6 +7,7 @@ Practical Implementations of various concepts studied under the subject Web Tech
 [Lab 4: HTML Forms](/Lab4/)<br>
 [Lab 5: Introduction to CSS](/Lab5/)<br>
 [Lab 6: Selectors in CSS](/Lab6/)<br>
+[Lab 7: Navigation Bar using CSS](/Lab7/)<br>
 
 
 
