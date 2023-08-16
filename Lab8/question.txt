@@ -1,0 +1,6 @@
+Design the following static web pages required for an online website.
+-Home page: The static home page must contain three
+frames
+- login page
+- Contact page
+- Registration page
