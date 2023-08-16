@@ -8,7 +8,7 @@ Practical Implementations of various concepts studied under the subject Web Tech
 [Lab 5: Introduction to CSS](/Lab5/)<br>
 [Lab 6: Selectors in CSS](/Lab6/)<br>
 [Lab 7: Navigation Bar using CSS](/Lab7/)<br>
-[Lab 8: Static Webpage](/Lab8/)<br>
+[Lab 8: Static Webpages](/Lab8/)<br>
 [Lab 9: Media Query](/Lab9/)<br>
 
 
