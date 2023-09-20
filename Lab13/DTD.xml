@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE person
+[
+<!ELEMENT person (name,address,phone,gender,age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+]>
+
+<person>
+    <name>Sandesh</name>
+    <address>Koteshwor</address>
+    <phone>9745978408</phone>
+    <gender>Male</gender>
+    <age>21</age>
+</person>

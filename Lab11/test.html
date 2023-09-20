@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+    <style></style>
+  </head>
+  <body>
+    <h1>Form</h1>
+    <form action="" name="regForm" onsubmit="formValidate()">
+      <label>Username: </label><input type="text" name="username" required /
+      ><br /><br />
+      <label for="">Email:</label>
+      <input type="text" required name="email" /><br /><br />
+      <label for="">Password: </label
+      ><input type="password" required name="password" /><br /><br />
+      <label for="">Confirm Password: </label
+      ><input type="password" required name="cpassword" /> <br /><br />
+      <input type="submit" />
+    </form>
+    <script>
+      username = document.regForm.username.value;
+      password = document.regForm.password.value;
+      cpassword = document.regForm.cpassword.value;
+      function formValidate() {
+        if (username.length < 6) {
+          alert("Username must be more than 6 characters");
+        }
+        if (password.length < 8) {
+          alert("Password must must be more than 8 characters");
+        }
+        if (password !== cpassword) {
+          alert("Password Doesn't Match");
+        }
+      }
+    </script>
+  </body>
+</html>
